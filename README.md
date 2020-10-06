@@ -6,7 +6,7 @@ As a Team Lead at Lambda School, we meet all kinds of unique and amazing people.
 
 ## Tech / Framework
 
-### Built with
+### Built with LOVE
 
 - NodeJs
 - ExpressJS
